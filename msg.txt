@@ -1,1 +1,7 @@
-bienvenidos!
+Bienvenidos a la versión beta de IA! a continuación pueden ver la lista de reglas a seguir durante el periodo de pruebas:
+1. No puedes compartir el enlace ni los archivos del juego de la versión beta.
+2. Cualquier error que encuentres debes compartirlo conmigo en forma de mensaje permanente.
+3. El juego no está terminado al 100%, por lo que algunas cosas no están terminadas o no funcionan.
+4. La documentación no está escrita así que si tienes alguna duda puedes enviarme un mensaje privado.
+5. Algunos días me da la loquera y puedo reprogramar algunos sistemas, por lo que no puedo garantizar que los juegos creados en versiones anteriores funcionen en otras más nuevas.
+6. Lo que estás viendo no es la versión final. Muchas cosas que están disponibles actualmente se pueden eliminar o modificar en cualquier momento.
