@@ -2,12 +2,20 @@ Lista de teclas:
 área de teclado:
 z: ubicación.
 m: menú de construcción.
+coma: mover un mensaje anterior.
+punto: ver el mensaje siguiente.
+shift coma: ir al primer mensaje dentro del buffer.
+shift punto. ir al último mensaje del buffer.
 s: menú de estadísticas.
 w: clima.
 e: nivel y XP.
 t: fecha y hora.
 i: inventario.
 p: pausa.
+agudo: mover al buffer anterior. 
++: mover al buffer siguiente.
+shift agudo: ir al primer buffer.
+shift +: ir al último buffer.
 shift c: administrador de construcciones.
 shift m: mercado.
 shift s: administrador de producción.
